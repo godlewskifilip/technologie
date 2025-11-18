@@ -1,6 +1,10 @@
 Podsumowanie
 ============
 
+.. image:: zdj.jpg
+   :align: center
+
+
 Technologie informacyjne stanowią fundament nowoczesnego społeczeństwa.
 Dzięki nim możliwy jest szybki przepływ danych, globalna komunikacja,
 automatyzacja procesów, rozwój gospodarczy i naukowy, a także tworzenie
